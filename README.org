@@ -1,0 +1,7 @@
+#+TITLE: Cookiecutter-Nikola
+
+This is a convenience cookiecutter for nikola with org-mode and my bootstrap additions.
+
+#+begin_src bash
+cookiecuttter gh:necromuralist/cookiecutter-nikola
+#+end_src

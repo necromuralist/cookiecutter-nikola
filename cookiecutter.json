@@ -1,0 +1,9 @@
+{
+    "project_name": "monkey-notes",
+    "author": "Cloistered Monkey",
+    "title": "Monkey Shines",
+    "description": "Blah, blah, blah",
+    "email": "necromuralist@protonmail.com",
+    "year": "{% now 'utc', '%Y' %}",
+    "_extensions": ["jinja2_time.TimeExtension"]
+}
