@@ -22,7 +22,7 @@ Pillow==7.0.0
 pip-tools==4.5.1
 pipdeptree==0.13.2
 pkg-resources==0.0.0
-Pygments==2.6.1
+Pygments==2.7.4
 pyinotify==0.9.6
 PyRSS2Gen==1.1
 python-dateutil==2.8.1
