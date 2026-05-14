@@ -34,4 +34,4 @@ urllib3==2.7.0
 virtualenv==20.0.10
 virtualfish==1.0.6
 Yapsy==1.12.2
-zipp==3.1.0
+zipp==3.19.1
